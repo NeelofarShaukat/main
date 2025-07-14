@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  Education | Neelofar Shaukat
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <h1>Education</h1>
+  <p>Academic Journey and Research Foundation</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="projects.html">Projects</a>
+  <a href="publications.html">Publications</a>
+  <a href="honors.html">Honors</a>
+  <a href="funding.html">Funding</a>
+  <a href="workshops.html">Workshops</a>
+  <a href="events.html">Events</a>
+  <a href="conferences.html">Conferences</a>
+  <a href="courses.html">Courses</a>
+  <a href="experience.html">Experience</a>
+  <a href="volunteer.html">Volunteer</a>
+  <a href="education.html">Education</a>
+</nav>
+
+<main>
+  <section>
+    <h2>🎓 Master of Science in Electrical Engineering (by Research)</h2>
+    <p><strong>Institution:</strong> COMSATS University Islamabad, Abbottabad Campus, Pakistan</p>
+    <p><strong>GPA:</strong> 3.69/4.00(85%)</p>
+    <p><strong>Medium of Instruction:</strong> English</p>
+    <p><strong>Honors:</strong> Merit-based scholarship | Ranked among the top 1% of the class</p>
+    <h4>🔬 Research Thesis (MS EE):</h4>
+    <p>Focused on adaptive and intelligent control schemes for smart grid applications. Proposed an intelligent distributed control system utilizing artificial intelligence for improved grid reliability and adaptive decision-making.</p>
+    <ul>
+      <li>Published multiple Q1 journal papers as first author based on this thesis.</li>
+      <li>Topics included microgrid stability, adaptive clustering, reinforcement learning, and energy management.</li>
+    </ul>
+  </section>
+  <section>
+    <h2>🎓 Bachelor of Science in Electronics Engineering (Honors)</h2>
+    <p><strong>Institution:</strong> COMSATS Institute of Information Technology, Abbottabad Campus, Pakistan</p>
+    <p><strong>GPA:</strong> 3.43/4.00(84%)</p>
+    <p><strong>Medium of Instruction:</strong> English</p>
+    <p><strong>Honors:</strong></p>
+    <ul>
+      <li>Academic Excellence Award – 1st Semester CGPA: 3.86/4.00</li>
+      <li>Top 3 in BEE Class of 125 students</li>
+      <li>Won two national-level hardware project competition prizes</li>
+      <li><strong>Final Year Project:</strong> "Variable Field Electric Motor (VFEM)"</li>
+      <li>Secured PKR 0.5 million funding from Directorate of Science and Technology, KPK</li>
+    </ul>
+  </section>
+  <section>
+    <h2>🎯 Research Interests</h2>
+    <p>Artificial Intelligence, Machine Learning, Control Systems, Robotics, Optimization, Smart Cities (IoT), Smart Grids, Electric Vehicles.</p>
+    <p>Passionate about combining engineering research with policy and leadership for solving complex energy and technology challenges.</p>
+  </section>
+</main>
+<footer>
+  <p>© 2025 Neelofar Shaukat</p>
+</footer>
+</body>
+</html>
