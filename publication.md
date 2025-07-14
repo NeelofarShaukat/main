@@ -6,8 +6,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
   <header>
-    <h1>Selected Publications</h1>
+    <h1>Publications</h1>
   </header>
 
   <nav>
@@ -19,15 +20,55 @@
   </nav>
 
   <main>
-    <ul>
-      <li>Shaukat, N. et al. “Adaptive Clustering for Load Management” – IEEE IAS, 2025</li>
-      <li>Shaukat, N. et al. “Decentralized, Democratized Future Power Grids” – IEEE Access, 2023</li>
-      <li>Shaukat, N. et al. “Energy Management Model using Distributed Integral Control” – ETFG 2023</li>
-      <li>Shaukat, N. et al. “Survey on Electric Vehicles in Smart Grids” – Elsevier, 2018</li>
-      <li><a href="https://scholar.google.com/citations?user=G92fyjIAAAAJ&hl=en" target="_blank">View Full List on Google Scholar</a></li>
-    </ul>
+    <section>
+      <h2>Google Scholar</h2>
+        <strong>Citations:</strong> 863 &nbsp; | &nbsp;
+        <strong>h-index:</strong> 7 &nbsp; | &nbsp;
+        <strong>i10-index:</strong> 6 &nbsp; | &nbsp;
+        <strong>Total Impact Factor:</strong> 57 <br>
+        <a href="https://scholar.google.com/citations?user=G92fyjIAAAAJ&hl=en" target="_blank">
+          📖 View Google Scholar Profile
+      <h2>3.1 Journal and Conference Publications</h2>
+      <ol>
+        <li>“Adaptive Clustering for Distributed Load Management in Industrial Consumers: A Swarm-based Approach”, IEEE NE-IECCE 2025. Selected for publication in IEEE IAS Transactions and Magazine.</li>
+        <li>"Decentralized, Democratized, and Decarbonized Future Electric Power Distribution Grids," IEEE Access, vol. 11, 2023, pp. 60957–60987.</li>
+        <li>"Distributed Average Integral Control Based Energy Management Model," IEEE ETFG 2023, France. Selected for IEEE Transactions.</li>
+        <li>"A Survey on Electric Vehicle Transportation within Smart Grid System," Renewable and Sustainable Energy Reviews, vol. 81, 2018, pp. 1329–1349.</li>
+        <li>"A Survey on Consumers Empowerment, Communication Technologies, and Renewable Generation Penetration within Smart Grid," RSE Reviews, vol. 81, 2018, pp. 1453–1475.</li>
+        <li>"Potential of Biogas for Electric Power Generation in Pakistan," RSE Reviews, vol. 54, 2016.</li>
+        <li>"A Control Approach Based on Fuzzy Logic for Grid-Interfaced Wind Energy Conversion System," ICEET 2021, Turkey, pp. 1–8.</li>
+        <li>"Takagi-Sugeno Fuzzy Logic Based Speed Control of Induction Motor," IEEE FIT 2016, Islamabad, pp. 280–285.</li>
+        <li>"An Information-Based Waste Management Approach for Pakistan," IEEE ECCE 2019.</li>
+        <li>"Distributed Hybrid Control Strategy for Multiple Wind Farms Under Faults," IEEE ICECE 2017, Lahore, pp. 26–31.</li>
+        <li>"Comparative Study of Control Methods for Steam Condenser," IEEE ICECE 2017, Lahore, pp. 32–37.</li>
+        <li>"Electricity Crisis and the Significance of Indigenous Coal for Electric Power Generation," Electronic Devices, vol. 4(1), March 2015.</li>
+        <li>"A Comprehensive Review of Biogas Sector for Electric Power Generation in Pakistan," PSM Biological Research, vol. 1(1), 2016, pp. 43–48.</li>
+      <h2>3.2 Under Review (Q1 Journals)</h2>
+      <ol>
+        <li>"Hybrid Dynamic Time-Series Forecasting Model for Adaptive Decision-Making," 2025. (Algorithm based on inverse error relation).</li>
+        <li>"Roadmap for a Nature-Positive Electric Ecosystem: Data-Driven Futuristic Power Distribution Grids," 2025. (Swarm intelligence + adaptive clustering).</li>
+      </ol>
+      <h2>3.3 Book Chapter</h2>
+      <p>
+        N. Shaukat, B. Khan, <strong>"E-Mobility: Transportation Sector in Transition"</strong><br>
+        In: Handbook of Climate Change Mitigation and Adaptation, Springer, 1st ed. 2022, 2nd ed. 2025, pp. 2423–2498.<br>
+        <a href="https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6431-0_130-1" target="_blank">📘 View Chapter</a><br>
+        (Invited by Dr. Baharak Sajjadi, University of Mississippi)
+      </p>
+      <h2>3.4 Abstracts and Talks</h2>
+      <ul>
+        <li>Conference Abstracts/Talks on Biogas: Accepted peer-reviewed oral presentations.<br>
+          <a href="https://sustainabledevelopment.un.org/content/documents/commitments/2254_9671_commitment_Proc-IW-DSP-2015.pdf" target="_blank">View Proceedings</a>
+        </li>
+      </ul>
+      <h2>3.5 Ongoing Research / Paper Writing</h2>
+      <ul>
+        <li>Reinforcement-based control approach to prevent cascading failure (e.g., Iberian Peninsula blackout 2025)</li>
+        <li>Solid-State Transformer as Adaptive Transient Segmentation Device using Hybrid Adaptive Control</li>
+        <li>Lyapunov + Reinforcement Learning Based Control with Stability Guarantees for Microgrids</li>
+        <li>Extension of Adaptive Clustering work for IEEE Transactions (based on 2025 IAS publication)</li>
+      </ul>
   </main>
-
   <footer>
     <p>© 2025 Neelofar Shaukat</p>
   </footer>
