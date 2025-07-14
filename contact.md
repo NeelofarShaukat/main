@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Contact | Neelofar Shaukat</title>
+  Engr.Neelofar Shaukat</>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -20,7 +20,7 @@
 
   <main>
     <p>Email: <a href="mailto:neelofar169@gmail.com">neelofar169@gmail.com</a></p>
-    <p>LinkedIn, ResearchGate, or ORCID links can go here.</p>
+    
   </main>
 
   <footer>
