@@ -21,7 +21,7 @@
 </nav>
 
 <main>
-  <section>
+   
     <h2>Academic & Professional Recognitions</h2>
     <ol>
       <li>🏆 Awarded the prestigious <strong>National Youth Award 2021</strong> (Chief Guest: President of Pakistan) in the "High Achievers" category for leadership, community service, and engineering-related contributions.</li>
