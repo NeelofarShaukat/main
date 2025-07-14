@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  Engr.Neelofar Shaukat | Researcher
+  Neelofar Shaukat | Researcher
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -10,7 +10,24 @@
 
 <header>
   <h1>Neelofar Shaukat</h1>
-  <p>Researcher in Electrical Engineering | Smart Grids | AI, Machine Learning & Control Systems</p>
+  <p>AI & ML in Power Systems • Cyber-Physical Grids • Intelligent Control• Transportation Electrification</p>
+
+  <div class="hero-content">
+    <div class="profile-pic"></div>
+    <div class="intro-text">
+      <h2>Welcome!</h2>
+      <p>
+        I am a researcher working at the intersection of electrical engineering, artificial intelligence, machine learning and advanced control systems. My work involves grid-forming inverters, adaptive and data-driven controllers, and smart architectures for energy resilience and transportation electrification.
+      </p>
+    </div>
+  </div>
+
+  <div class="bubble-row">
+    <div class="bubble">AI</div>
+    <div class="bubble">ML</div>
+    <div class="bubble">⚡ Grid</div>
+    <div class="bubble">CPS</div>
+  </div>
 </header>
 
 <nav>
@@ -28,44 +45,29 @@
   <a href="events.html">Events</a>
   <a href="volunteer.html">Volunteer</a>
   <a href="skills.html">Skills</a>
+  <a href="collaboration.html">Collaboration</a>
   <a href="contact.html">Contact</a>
 </nav>
 
 <main>
   <section>
-    <img src="your-photo.jpg" alt="Neelofar Shaukat" style="width:180px;border-radius:50%;" />
-    <h2>About Me</h2>
-    <p>
-      I am a researcher specializing in intelligent control systems, smart grids, adaptive forecasting, and cyber-physical architectures. My work integrates machine learning with power electronics and real-time control to create resilient energy systems.
-    </p>
-    <p>
-      Through academic research, student leadership, and community engagement, I aim to build innovative, interdisciplinary solutions for real-world energy challenges.
-    </p>
-  </section>
-
-  <section>
-    <h2>🔗 Key Pages</h2>
+    <h2>Featured Projects</h2>
     <ul>
-      <li><a href="education.html">🎓 Education & Thesis</a></li>
-      <li><a href="research.html">🧠 Research Interests</a></li>
-      <li><a href="projects.html">🛠️ Projects (AI, Control Systems, Grids)</a></li>
-      <li><a href="publications.html">📚 Publications (with Google Scholar)</a></li>
-      <li><a href="honors.html">🏅 Awards & Honors</a></li>
-      <li><a href="funding.html">💰 Research Funding</a></li>
-      <li><a href="experience.html">👩‍🏫 Work & Teaching Experience</a></li>
-      <li><a href="courses.html">📘 Technical Courses & Certifications</a></li>
-      <li><a href="workshops.html">🎤 Workshops Attended</a></li>
-      <li><a href="conferences.html">🌍 Conferences & Talks</a></li>
-      <li><a href="events.html">🎪 Events Organized</a></li>
-      <li><a href="volunteer.html">🌱 Volunteer & Community Work</a></li>
-      <li><a href="skills.html">🧰 Skills, Languages & Hobbies</a></li>
-      <li><a href="contact.html">✉️ Contact</a></li>
+      <li>AI Guardian: Cascading Failure Prevention</li>
+      <li>Adaptive Heun Controller for MMC</li>
+      <li>RL + Lyapunov Control for Microgrids</li>
+      <li>ML Forecasting for time series data</li>
+      <li>Model predictive control strategy for industrial load managment</li>
+      <li>Novel Adaptive and Intelligent Power Architecture AIPSt</li>
+      <li>Adaptive control design for solid state transformer</li>
+       <li>MedGreen Architecture for Renewable Energy Resourcesr</li>
+      <li>Nature Inspired Industrial Load shedding</li>
     </ul>
   </section>
 </main>
 
 <footer>
-  <p>© 2025 Neelofar Shaukat</p>
+  <p>© 2025 Neelofar Shaukat | Powered by AI & Engineering</p>
 </footer>
 
 </body>
