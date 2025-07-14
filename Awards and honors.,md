@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Honors & Awards | Neelofar Shaukat</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <h1>Honors & Awards</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="projects.html">Projects</a>
+  <a href="publications.html">Publications</a>
+  <a href="honors.html">Honors</a>
+  <a href="cv.html">CV</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <section>
+    <h2>Academic & Professional Recognitions</h2>
+    <ol>
+      <li>🏆 Awarded the prestigious <strong>National Youth Award 2021</strong> (Chief Guest: President of Pakistan) in the "High Achievers" category for leadership, community service, and engineering-related contributions.</li>
+      <li>🥈 Received a top-grade excellence prize for securing the 2nd highest CGPA (3.86/4) in the first semester of Electrical Engineering.</li>
+      <li>💻 Awarded a laptop under the Government of Pakistan Talent Scheme for achieving a CGPA above 3.5.</li>
+      <li>🎓 Ranked among the top 3 students in a class of 125 during the BEE degree.</li>
+      <li>📊 Ranked in the top 1% of students in MS Electrical Engineering program.</li>
+      <li>⚙️ Designed and won a prize for the “Variable Field Electric Motor (VFEM)” at a national-level hardware competition (EMCOT).</li>
+      <li>🔬 Final year BS project awarded prize at IEEE Engineering Project Competition, GIKI Pakistan.</li>
+      <li>🧠 Accumulated 58.5 credit points from Pakistan Engineering Council (PEC) Continuing Professional Development (CPD) workshops.</li>
+      <li>🖼️ Organized and led the international event “Poster Exhibition” (UNESCO project, sponsored by ENSF Italy) as the President of the Organizing Team.</li>
+      <li>💡 Achieved 3rd position at the National Academy of Young Scientists “Innovative Ideas Presentation” Program.</li>
+      <li>🎙️ Organized and hosted a seminar with renowned scientist Dr. Atta-ur-Rahman (UNESCO Laureate) as keynote speaker.</li>
+      <li>🎓 Delivered lectures to MS and PhD students on Smart Grid and Renewable Energy integration at COMSATS University on invitation.</li>
+      <li>🚀 Introduced entrepreneurship in the Electrical Engineering Department by founding and managing the “Minds to Market” event at university level.</li>
+      <li>🩸 Founded a Blood Donor Society under the umbrella of NAYS Student Branch.</li>
+      <li>🌐 Comprehensive research on Smart Grids featured in <a href="https://energycentral.com/news/new-findings-reported-department-electrical-engineering-describe-advances-renewable" target="_blank">Energy Central News (USA)</a>.</li>
+    </ol>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Neelofar Shaukat</p>
+</footer>
+
+</body>
+</html>
