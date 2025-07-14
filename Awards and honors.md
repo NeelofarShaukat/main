@@ -19,10 +19,7 @@
   <a href="cv.html">CV</a>
   <a href="contact.html">Contact</a>
 </nav>
-
-<main>
-   
-    <h2>Academic & Professional Recognitions</h2>
+  <h2>Academic & Professional Recognitions</h2>
     <ol>
       <li>🏆 Awarded the prestigious <strong>National Youth Award 2021</strong> (Chief Guest: President of Pakistan) in the "High Achievers" category for leadership, community service, and engineering-related contributions.</li>
       <li>🥈 Received a top-grade excellence prize for securing the 2nd highest CGPA (3.86/4) in the first semester of Electrical Engineering.</li>
